@@ -67,7 +67,7 @@
 }
 
 .advantage {
-    background-image: url('assets/img/blurred.jpg');
+    background-image: url('/assets/img/blurred.jpg');
 }
 
 .section1 {
@@ -75,7 +75,7 @@
 }
 
 .advantage1 {
-    background-image: url(/img/image\ 79.png);
+    background-image: url('/assets/img/image79.png');
 }
 
 .section3 {
