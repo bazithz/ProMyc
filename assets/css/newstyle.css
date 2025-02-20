@@ -1,0 +1,124 @@
+.navbar {
+    background: linear-gradient(to bottom, #000000, #00000000);
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+}
+
+.carousel-caption {
+    align-items: center !important;
+}
+.quite{
+    font-family: "Permanent Marker", serif;
+    font-weight: 300;
+}
+.carousel-item{
+    background-size: cover;
+}
+
+.lat {
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 100px;
+}
+  
+.section-3-h2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+
+.section4 {
+    background-color: #1A1A1A;
+}
+
+.p12 {
+    text-align: justify;
+}
+
+@media only screen and (max-width: 770px) {
+    .h12 {
+        font-size: 20px;
+    }
+
+    .p12 {
+        font-size: 12px;
+    }
+    .carousel-caption{
+        width:300px;
+        top: 25%;
+        margin-left: 120px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 560px) {
+    .carousel-caption{
+        margin-left: 10px;
+    }
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.advantage {
+    background-image: url(img/blurred\ bg3.jpg);
+}
+
+.section1 {
+    padding-top: 10px;
+}
+
+.advantage1 {
+    background-image: url(/img/image\ 79.png);
+}
+
+.section3 {
+    background-color: #F8F2E7;
+}
+.card{
+    border-radius: none;
+}
+.button1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 80px;
+    border: 1px solid black;
+}
+.footer{
+    background-color: #000000;
+}
+.text{
+    border-radius: 1px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background: none;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(41, 41, 41);
+    border-radius: 10px;
+  }
+p{
+    font-size: 16px;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar-toggler{
+    background-color: #ffffff67;
+}
